@@ -1,0 +1,275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-language" content="en" />
+	<meta http-equiv="expires" content="-1" />
+	<meta http-equiv="pragma" content="no-cache" />
+	<meta name="author" content="Martin Havlat" />
+	<meta name="copyright" content="GNU" />
+	<meta name="robots" content="NOFOLLOW" />
+	<base href="http://193.232.45.198/testlink/"/>
+	<title>Test Report: Results of Test Cases for all Builds</title>
+  <link rel="TL shortcut icon" href="http://193.232.45.198/testlink//gui/themes/theme_m1/images/favicon.ico" />
+
+	<style media="all" type="text/css">@import "http://193.232.45.198/testlink/gui/themes/theme_m1/css/testlink.css";</style>
+	
+	  	<style media="all" type="text/css">@import "http://193.232.45.198/testlink/gui/themes/theme_m1/css/jos_template_css.css";</style>
+			<style media="print" type="text/css">@import "http://193.232.45.198/testlink/gui/themes/theme_m1/css/tl_print.css";</style>
+	<script type="text/javascript" src="http://193.232.45.198/testlink/gui/javascript/testlink_library.js" language="javascript"></script>
+	<script type="text/javascript" language="javascript">
+	var fRoot = 'http://193.232.45.198/testlink/';
+	var menuUrl = '';
+	var args  = '';
+	
+	// 20050528 - fm
+	// To solve problem diplaying help
+	var SP_html_help_file  = '';
+	
+	//attachment related JS-Stuff
+	var attachmentDlg_refWindow = null;
+	var attachmentDlg_refLocation = null;
+	var attachmentDlg_bNoRefresh = false;
+	
+	// 20060916 - franciscom
+	// bug management (using logic similar to attachment)
+	var bug_dialog=new bug_dialog();
+  
+	</script> 
+ </head>
+
+<body>
+
+<h1>Test Report: Results of Test Cases for all Builds</h1>
+
+
+<div class="workBack">
+<table>
+<tr><td>Test Project</td><td> : </td>
+<td>
+<span style="color:black; font-weight:bold; text-decoration: underline;">Svetikov Aleksandr</span></td>
+</tr>
+<tr><td>Test Plan</td><td> : </td><td> 
+<span style="color:black; font-weight:bold; text-decoration:underline;">wert</span></td>
+</tr>
+</table>	
+
+<table class="simple" style="width: 100%; text-align: center; margin-left: 0px;">
+	<tr>
+		<th>Test Suite name</th>
+		<th>Test Title</th>
+		
+					<th>bkl</th>
+			</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Интерфейс</td>
+			
+			 
+		<td>442:Вид кнопок</td>
+			
+			 
+		<td style="color: red; font-weight:bold">Failed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Интерфейс</td>
+			
+			 
+		<td>704:Единообразие языка</td>
+			
+			 
+		<td style="color: red; font-weight:bold">Failed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Интерфейс</td>
+			
+			 
+		<td>745:Наличие текстового обозначения кнопок</td>
+			
+			 
+		<td style="color: red; font-weight:bold">Failed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Интерфейс</td>
+			
+			 
+		<td>747:Грамотность надписей</td>
+			
+			 
+		<td style="color: red; font-weight:bold">Failed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал</td>
+			
+			 
+		<td>464:Изменение размера окна</td>
+			
+			 
+		<td style="color: red; font-weight:bold">Failed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал</td>
+			
+			 
+		<td>706:Выбор файла</td>
+			
+			 
+		<td style="color: green; font-weight:bold">Passed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал</td>
+			
+			 
+		<td>751:Неактивность кнопки "Удалить из списка" при пустом списке</td>
+			
+			 
+		<td style="color: red; font-weight:bold">Failed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал</td>
+			
+			 
+		<td>753:Неактивность кнопки старта копирования при пустом списке</td>
+			
+			 
+		<td style="color: red; font-weight:bold">Failed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал</td>
+			
+			 
+		<td>755:Системные кнопки окна</td>
+			
+			 
+		<td style="color: red; font-weight:bold">Failed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал</td>
+			
+			 
+		<td>757:Удаление файла из списка</td>
+			
+			 
+		<td style="color: red; font-weight:bold">Failed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал</td>
+			
+			 
+		<td>759:Копирование файла</td>
+			
+			 
+		<td style="color: green; font-weight:bold">Passed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал</td>
+			
+			 
+		<td>761:Пауза копирования</td>
+			
+			 
+		<td style="color: green; font-weight:bold">Passed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал</td>
+			
+			 
+		<td>763:Копирование файла в папку, где этот файл уже имеется</td>
+			
+			 
+		<td style="color: red; font-weight:bold">Failed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал</td>
+			
+			 
+		<td>765:Копирование нескольких файлов</td>
+			
+			 
+		<td style="color: green; font-weight:bold">Passed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал / Запуск программы</td>
+			
+			 
+		<td>425:При помощи кнопки Enter</td>
+			
+			 
+		<td style="color: green; font-weight:bold">Passed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал / Запуск программы</td>
+			
+			 
+		<td>439:С помощью двойного клика</td>
+			
+			 
+		<td style="color: green; font-weight:bold">Passed</td>
+
+				</tr>
+	<tr>
+	
+			 
+		<td>Hardload / Функционал / Запуск программы</td>
+			
+			 
+		<td>749:С помощью клика правой клавиши мыши</td>
+			
+			 
+		<td style="color: green; font-weight:bold">Passed</td>
+
+				</tr>
+</table>
+
+Generated by TestLink on  12/11/2017 17:52:21
+</div>
+
+</body>
+</html>
